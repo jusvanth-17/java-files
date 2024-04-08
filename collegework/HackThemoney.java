@@ -7,9 +7,5 @@ public class HackThemoney {
         for (int i = 0; i < arr.length; i++) {
             a[i]=in.nextInt();
         }
-         for (int i = 0; i < arr.length; i++) {
-            
-         }
-        
-    }
+     
 }
